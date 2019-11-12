@@ -33,7 +33,7 @@
     "webfont-matcher": "^1.1.0"
   },
   "peerDependencies": {
-    "ol": "^6.1.0"
+    "ol": ">= 6.1.0"
   },
   "devDependencies": {
     "@types/node": "^12.7.12",
